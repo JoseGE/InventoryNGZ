@@ -1,7 +1,7 @@
 <?php
 
 define('APP_TITLE','Inventario NetGameZone');
-
+define('APP_URL','https://mrje-j-e1997591148.codeanyapp.com/InventoryNGZ/');
 
 
 // VIEW ROUTER 
